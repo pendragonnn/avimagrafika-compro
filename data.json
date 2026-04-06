@@ -1,0 +1,370 @@
+{
+  "products": [
+  {
+    "id": "P-001",
+    "name": "Box Karton",
+    "category": "Packaging",
+    "minOrder": 1000,
+    "priceRange": {
+      "min": 5000,
+      "max": 12000
+    },
+    "image": "https://i.pinimg.com/736x/1e/c6/24/1ec624195033d4a859b57933de658bc1.jpg",
+    "materials": ["Duplex", "Karton Gelombang", "Karton Polos"],
+    "variants": [
+      "Kardus Sepatu",
+      "Kardus Helm",
+      "Kardus Makanan & Minuman",
+      "Karton Plat Motor"
+    ],
+    "finishing": ["Cetak", "Polos"],
+    "description": "Melayani pembuatan berbagai jenis kardus seperti kardus box, kemasan, lembaran hingga kardus gelombang. Produk dapat disesuaikan dengan kebutuhan seperti kardus sepatu, helm, hingga kemasan makanan dan minuman. Harga menyesuaikan spesifikasi dan jumlah pemesanan."
+  },
+  {
+    "id": "P-002",
+    "name": "Undangan Pernikahan",
+    "category": "Printing",
+    "minOrder": 1000,
+    "priceRange": {
+      "min": 1000,
+      "max": 8000
+    },
+    "image": "https://i.pinimg.com/736x/71/98/2c/71982ca6f445b52b485f13b0f4ca91d7.jpg",
+    "materials": ["Art Paper", "Art Carton"],
+    "finishing": ["Full Color", "Custom Design"],
+    "description": "Jasa cetak undangan pernikahan dengan desain custom. Tersedia revisi desain hingga beberapa kali sebelum proses cetak. Sistem pembayaran menggunakan DP dan pelunasan sebelum pengiriman. Harga tergantung desain, bahan, dan jumlah pesanan."
+  },
+  {
+    "id": "P-003",
+    "name": "Brosur / Leaflet",
+    "category": "Promotional",
+    "minOrder": "2 Rim",
+    "priceRange": {
+      "min": 500000,
+      "max": 800000
+    },
+    "image": "https://i.pinimg.com/736x/c2/09/13/c20913b82189fdd5344558ccc2448fa8.jpg",
+    "materials": ["Art Paper 120gr", "Art Paper 150gr", "Art Carton 230-310gr"],
+    "sizes": ["A4", "A5", "32x48 cm (lipat)"],
+    "finishing": ["Laminating Glossy", "Laminating Doff", "UV Varnish", "Hot Print"],
+    "description": "Media promosi cetak berupa brosur atau leaflet untuk meningkatkan penjualan dan branding. Dapat dicetak full color dengan berbagai pilihan bahan dan finishing untuk menghasilkan tampilan menarik dan profesional."
+  },
+  {
+    "id": "P-004",
+    "name": "Continuous Form",
+    "category": "Office Supplies",
+    "minOrder": "5 Dus",
+    "priceRange": {
+      "min": 350000,
+      "max": 500000
+    },
+    "image": "https://i.pinimg.com/736x/b8/81/73/b881736e6100833669cbf6e79ff0d963.jpg",
+    "materials": ["Kertas NCR"],
+    "finishing": ["Custom"],
+    "description": "Cetak continuous form (formulir berkelanjutan) dengan spesifikasi sesuai kebutuhan seperti ukuran, desain, jumlah rangkap, dan jenis kertas NCR."
+  },
+  {
+    "id": "P-005",
+    "name": "Wobbler AC 210gr",
+    "category": "Promotional",
+    "minOrder": 5000,
+    "priceRange": {
+      "min": 600,
+      "max": 800
+    },
+    "image": "https://i.pinimg.com/736x/f5/13/3f/f5133f337e0b0efad8b54a215d8df4f2.jpg",
+    "materials": ["Art Carton 210gr"],
+    "finishing": ["Laminating", "Varnish", "UV Spot"],
+    "description": "Media promosi yang ditempatkan di area kasir atau display produk untuk menarik perhatian pelanggan dari jarak dekat."
+  },
+  {
+    "id": "P-006",
+    "name": "Box Roti / Snack",
+    "category": "Food Packaging",
+    "minOrder": 2000,
+    "priceRange": {
+      "min": 400,
+      "max": 800
+    },
+    "image": "https://i.pinimg.com/736x/be/8c/3b/be8c3b8dc0aa7497c1d02c475cbc697d.jpg",
+    "materials": ["Art Carton 260gr", "Duplex 270gr", "Ivory 270gr"],
+    "finishing": ["Laminating Glossy", "Laminating Doff", "Hot Print"],
+    "description": "Kemasan untuk roti, snack, dan kue dengan berbagai pilihan bahan dan finishing. Desain dapat disesuaikan untuk meningkatkan tampilan produk dan branding."
+  },
+  {
+    "id": "P-007",
+    "name": "ID Card PPC",
+    "category": "Identity",
+    "minOrder": 1,
+    "priceRange": {
+      "min": 5000,
+      "max": 25000
+    },
+    "image": "https://i.pinimg.com/736x/a5/4e/27/a54e27c4130d1329be826f5ccda62d22.jpg",
+    "materials": ["PVC"],
+    "finishing": ["Emboss", "Magnetic", "Anti UV"],
+    "description": "ID card berkualitas tinggi setara kartu ATM, tahan panas dan cocok untuk penggunaan outdoor seperti satpam atau petugas lapangan."
+  },
+  {
+    "id": "P-008",
+    "name": "Tent Card",
+    "category": "Promotional",
+    "minOrder": 1000,
+    "priceRange": {
+      "min": 1500,
+      "max": 2000
+    },
+    "image": "https://i.pinimg.com/736x/54/ae/85/54ae856b90cc93fa096030b188b57a76.jpg",
+    "materials": ["Art Carton 210gr"],
+    "finishing": ["Laminating", "UV", "Varnish"],
+    "description": "Media display meja yang cocok untuk restoran, event, atau promosi produk di area tertentu."
+  },
+  {
+    "id": "P-009",
+    "name": "Foodgrade Paper Packaging",
+    "category": "Packaging",
+    "minOrder": 1000,
+    "priceRange": {
+      "min": 300,
+      "max": 800
+    },
+    "image": "https://i.pinimg.com/736x/12/75/75/1275753ca132408286d0d297aa0cbff6.jpg",
+    "materials": ["Art Carton", "Ivory", "Duplex"],
+    "finishing": ["UV Varnish", "Glossy Laminate", "Matte Laminate", "Die Cut"],
+    "description": "Kemasan berbahan food grade yang aman untuk berbagai produk seperti kosmetik, makanan, obat, hingga elektronik. Bisa disesuaikan ukuran dan desainnya."
+  },
+  {
+    "id": "P-010",
+    "name": "Hanging Mobile",
+    "category": "Promotional",
+    "minOrder": 3000,
+    "priceRange": {
+      "min": 1000,
+      "max": 3000
+    },
+    "image": "https://i.pinimg.com/736x/46/18/d5/4618d557b436696e18204aab73015705.jpg",
+    "finishing": ["Custom"],
+    "description": "Media promosi gantung untuk area indoor seperti toko atau mall, efektif menarik perhatian dari atas."
+  },
+  {
+    "id": "P-011",
+    "name": "Box Makanan",
+    "category": "Food Packaging",
+    "minOrder": 2000,
+    "priceRange": {
+      "min": 800,
+      "max": 1200
+    },
+    "image": "https://i.pinimg.com/736x/19/9c/c9/199cc907e392b977c9677d51cb7776b7.jpg",
+    "materials": ["Food Grade Paper (280-365 gsm)"],
+    "finishing": ["Custom Print"],
+    "description": "Kemasan makanan berbahan food grade yang aman, tahan minyak, ramah lingkungan, dan dapat digunakan di microwave. Cocok untuk restoran modern."
+  },
+  {
+    "id": "P-012",
+    "name": "Box Pizza",
+    "category": "Food Packaging",
+    "minOrder": 1500,
+    "priceRange": {
+      "min": 2000,
+      "max": 5000
+    },
+    "image": "https://i.pinimg.com/736x/13/a5/80/13a5802116733ec20c4103c15f148720.jpg",
+    "sizes": ["21x21x4 cm", "26x26x4 cm", "31x31x4 cm", "36x36x4 cm"],
+    "materials": ["Karton Gelombang E/F"],
+    "description": "Box pizza dengan berbagai ukuran, menggunakan bahan karton gelombang yang kuat untuk menjaga kualitas makanan."
+  },
+  {
+    "id": "P-013",
+    "name": "Box Sepatu",
+    "category": "Packaging",
+    "minOrder": 1500,
+    "priceRange": {
+      "min": 4000,
+      "max": 6000
+    },
+    "image": "https://i.pinimg.com/1200x/84/f5/33/84f533a2aadc4598d4e9764c9807437c.jpg",
+    "sizes": ["31x14x10.5 cm"],
+    "description": "Box sepatu dengan ukuran standar, cocok untuk brand sepatu dan kebutuhan packaging retail."
+  },
+  {
+    "id": "P-014",
+    "name": "Box Seafood",
+    "category": "Packaging",
+    "minOrder": 2000,
+    "priceRange": {
+      "min": 15000,
+      "max": 30000
+    },
+    "image": "https://i.pinimg.com/736x/fc/f3/11/fcf311107b7982d72c1bd5be71c49e3c.jpg",
+    "materials": ["Karton Gelombang", "Lapisan Lilin"],
+    "finishing": ["Laminating"],
+    "description": "Kemasan khusus seafood yang tahan air dan suhu dingin, cocok untuk distribusi ikan segar."
+  },
+  {
+    "id": "P-015",
+    "name": "Sticker Vinyl",
+    "category": "Printing",
+    "minOrder": 1000,
+    "priceRange": {
+      "min": 1000,
+      "max": 2000
+    },
+    "image": "https://i.pinimg.com/736x/e4/e1/df/e4e1dfedd388eb0815489e396eab9e62.jpg",
+    "materials": ["Chromo", "Vinyl", "HVS"],
+    "finishing": ["Cutting Custom", "Offset Printing"],
+    "description": "Sticker untuk kebutuhan label, promosi, hingga kampanye. Tersedia bahan vinyl yang tahan air dan panas, serta chromo yang ekonomis."
+  },
+  {
+    "id": "P-016",
+    "name": "Kertas Kwitansi / Roll",
+    "category": "Office Supplies",
+    "minOrder": 1000,
+    "priceRange": {
+      "min": 4000,
+      "max": 15000
+    },
+    "image": "https://i.pinimg.com/736x/59/f3/7d/59f37dc8f404bae7cf98749b7ba6e67c.jpg",
+    "materials": ["Kertas Daur Ulang"],
+    "description": "Kertas struk untuk parkir, supermarket, dan kebutuhan lainnya. Diproduksi dengan mesin modern dan ramah lingkungan."
+  },
+  {
+    "id": "P-017",
+    "name": "Kalender / Agenda",
+    "category": "Promotional",
+    "minOrder": 1000,
+    "priceRange": {
+      "min": 15000,
+      "max": 25000
+    },
+    "image": "https://i.pinimg.com/736x/40/54/99/405499af02c96bd16facb54c4983e294.jpg",
+    "materials": ["Art Carton", "Duplex", "Art Paper"],
+    "finishing": ["Laminating", "Custom Design"],
+    "description": "Media promosi jangka panjang yang digunakan sepanjang tahun, tersedia dalam bentuk kalender meja dan dinding."
+  },
+  {
+    "id": "P-018",
+    "name": "Company Profile",
+    "category": "Printing",
+    "minOrder": 2000,
+    "priceRange": {
+      "min": 15000,
+      "max": 30000
+    },
+    "image": "https://i.pinimg.com/736x/57/72/33/5772332e6eb0ba4b44d52dfa8fbaaafd.jpg",
+    "materials": ["Art Paper", "Art Carton"],
+    "finishing": ["Laminating", "UV Spot", "Emboss", "Hot Print"],
+    "description": "Media cetak profesional untuk memperkenalkan perusahaan dalam bentuk katalog atau booklet dengan desain eksklusif."
+  },
+  {
+    "id": "P-019",
+    "name": "Shopping Bag",
+    "category": "Packaging",
+    "minOrder": 1000,
+    "priceRange": {
+      "min": 7000,
+      "max": 10000
+    },
+    "image": "https://i.pinimg.com/736x/29/6f/78/296f7872031aa5a681bc0eb50227cf59.jpg",
+    "materials": ["Art Carton", "Art Paper", "Kraft", "Ivory"],
+    "finishing": ["Laminating Glossy", "Laminating Doff"],
+    "description": "Paper bag untuk kebutuhan retail dengan berbagai pilihan bahan, kuat, dan dapat meningkatkan branding produk."
+  },
+  {
+    "id": "P-020",
+    "name": "Buletin / Majalah",
+    "category": "Printing",
+    "minOrder": "2 Rim",
+    "priceRange": {
+      "min": 300000,
+      "max": 500000
+    },
+    "image": "https://i.pinimg.com/736x/b9/4d/cb/b94dcb600b69798924e66d68d66bb099.jpg",
+    "materials": ["HVS", "Art Paper"],
+    "finishing": ["Binding", "Laminating", "Emboss"],
+    "description": "Cetak buku, majalah, atau buletin dengan berbagai pilihan ukuran, bahan, dan sistem penjilidan sesuai kebutuhan."
+  }
+  ],
+  "faqs": [
+    {
+      "question": "Apakah Avima Grafika melayani pengiriman ke luar kota?",
+      "answer": "Ya, kami melayani pengiriman produksi cetak ke seluruh wilayah Indonesia melalui berbagai pilihan ekspedisi darat, laut, maupun udara yang aman dan terpercaya."
+    },
+    {
+      "question": "Berapa minimum order (MOQ) untuk pemesanan cetak offset?",
+      "answer": "Minimum order sangat bergantung pada jenis produk dan material. Umumnya untuk buku, majalah, koran, atau kemasan offset berada di angka 500 eksemplar agar harga jauh lebih efisien. Hubungi kami untuk rincian lebih spesifik."
+    },
+    {
+      "question": "Apakah menyediakan layanan jasa penyesuaian desain (pracetak)?",
+      "answer": "Tentu. Kami memiliki tim desain pracetak profesional yang siap membantu merapikan layout, memastikan margin yang aman, hingga memeriksa standar resolusi dan warna gambar (CMYK) Anda sebelum masuk ke proses plat dan mesin."
+    },
+    {
+      "question": "Berapa estimasi waktu pengerjaan untuk pesanan skala besar?",
+      "answer": "Waktu pengerjaan (lead time) bervariasi bergantung pada kapasitas antrean mesin dan tingkat kompleksitas finishing. Namun rata-rata, pesanan cetak offset volume standar memakan waktu 3 hingga 7 hari kerja aktif setelah dummy (proofprint) disetujui."
+    },
+    {
+      "question": "Bagaimana prosedur sistem pembayaran pemesanan?",
+      "answer": "Kami menerapkan sistem uang muka (Down Payment/DP) sebesar 50% di awal sebelum proses produksi berjalan. Sisa pelunasan dapat dilakukan secara tunai/transfer setelah barang selesai diproduksi dan siap dikirimkan kepada Anda."
+    }
+  ],
+  "clients": [
+    { "id": 1, "name": "KEMENTERIAN", "style": "font-serif font-bold text-xl md:text-2xl tracking-widest" },
+    { "id": 2, "name": "BUMN", "style": "font-sans font-black text-2xl md:text-3xl tracking-tighter" },
+    { "id": 3, "name": "F&B GROUP", "style": "font-sans font-bold text-xl md:text-2xl tracking-wide italic" },
+    { "id": 4, "name": "University", "style": "font-serif font-medium text-2xl md:text-3xl" },
+    { "id": 5, "name": "TECH.CO", "style": "font-sans font-extrabold text-xl md:text-2xl tracking-widest" },
+    { "id": 6, "name": "AGENCY", "style": "font-sans font-bold text-lg md:text-xl tracking-[0.3em]" }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "quote": "Kualitas cetakan offset Avima Grafika sangat luar biasa! Warna yang dihasilkan persis seperti desain aslinya. Produksi 10.000 eksemplar majalah kami selesai tepat waktu tanpa ada yang cacat.",
+      "name": "Budi Santoso",
+      "role": "Pemimpin Redaksi"
+    },
+    {
+      "id": 2,
+      "quote": "Sangat bersyukur menemukan vendor percetakan yang komunikatif. Revisi pracetak ditangani dengan sabar, dan hasil kemasan box makanan kami terlihat jauh lebih premium dari sebelumnya.",
+      "name": "Siti Aminah",
+      "role": "Owner F&B Nusantara"
+    },
+    {
+      "id": 3,
+      "quote": "Harga yang ditawarkan sangat kompetitif untuk skala produksi massal. Kami selalu mengandalkan Avima untuk mencetak materi promosi dan kalender tahunan perusahaan kami secara konsisten.",
+      "name": "Hendra Wijaya",
+      "role": "Manager Pengadaan"
+    },
+    {
+      "id": 4,
+      "quote": "Pengerjaan super cepat! Brosur untuk pameran mendadak kami berhasil dicetak dalam semalam dengan kualitas kertas yang sangat memuaskan. Benar-benar vendor cetak andalan di segala situasi.",
+      "name": "Amanda Putri",
+      "role": "Event Organizer"
+    }
+  ],
+  "howToOrderSteps": [
+    {
+      "id": 1,
+      "title": "Hubungi Customer Service",
+      "desc": "Pertama hubungi tim pakar customer service kami. Anda dapat mengkonsultasikan spesifikasi cetak maupun kemasan beserta desain orisinal yang telah dibuat.",
+      "iconName": "HeadphonesIcon"
+    },
+    {
+      "id": 2,
+      "title": "Penawaran & Pembayaran",
+      "desc": "Tim kami akan mengkalkulasi pesanan untuk memberikan surat penawaran biaya industri terbaik. Setelah nota disetujui, pembayaran dapat diselesaikan untuk memulai.",
+      "iconName": "FileText"
+    },
+    {
+      "id": 3,
+      "title": "Proses Pencetakan Cepat",
+      "desc": "Bahan masuk ke tahap pra-cetak dan selanjutnya ke rantai mesin besar kami. Avima Grafika mengerahkan Quality Control mumpuni untuk setiap hasil lembar Anda.",
+      "iconName": "Printer"
+    },
+    {
+       "id": 4,
+       "title": "Pengemasan & Pengiriman",
+       "desc": "Setelah seluruh produk melalui finishing yang mulus, armada logistik kami akan merangkumnya dengan rapi dan mengantarkannya tepat ke titik lokasi bisnis Anda.",
+       "iconName": "Package"
+    }
+  ]
+}
