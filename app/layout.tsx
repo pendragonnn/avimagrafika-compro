@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     images: ['/logo.png'],
   },
   verification: {
-    google: 'Ss7bN7t7tAQqOg06bh_w-Hh28rM2-enAu8_-y_VovlI',
+    google: 'yf7_dXnzmQTVciq_jy7q8VCwQyUIf4aPGe1OlPp3V3E',
   },
 };
 
