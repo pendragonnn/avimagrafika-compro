@@ -13,14 +13,18 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://www.avimagrafika.online'),
+  metadataBase: new URL('https://avimagrafika.com'),
   title: "Avima Grafika | Solusi Percetakan Cepat dan Mudah",
   description: "Avima Grafika adalah perusahaan jasa percetakan yang menghasilkan produk koran, tabloid, majalah, kemasan cetak offset, banner, stiker, dan produk media cetak dengan kualitas terbaik.",
   keywords: "percetakan, percetakan jakarta timur, jasa cetak cepat, jasa cetak murah, cetak offset, percetakan koran, percetakan buku jakarta",
+  icons: {
+    icon: '/logo.png',
+    apple: '/logo.png'
+  },
   openGraph: {
     title: 'Avima Grafika | Jasa Cetak Komersial Cepat & Murah',
     description: 'Solusi percetakan andal untuk koran, majalah, kemasan, dan media cetak korporat.',
-    url: 'https://www.avimagrafika.online',
+    url: 'https://avimagrafika.com',
     siteName: 'Avima Grafika',
     images: [
       {
@@ -39,15 +43,18 @@ export const metadata: Metadata = {
     description: 'Solusi Percetakan Profesional di Jakarta Timur. Pengerjaan cepat, harga kompetitif.',
     images: ['/logo.png'],
   },
+  verification: {
+    google: 'Ss7bN7t7tAQqOg06bh_w-Hh28rM2-enAu8_-y_VovlI',
+  },
 };
 
 const localBusinessSchema = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
   name: 'Avima Grafika',
-  image: 'https://www.avimagrafika.online/logo.png',
-  '@id': 'https://www.avimagrafika.online',
-  url: 'https://www.avimagrafika.online',
+  image: 'https://avimagrafika.com/logo.png',
+  '@id': 'https://avimagrafika.com',
+  url: 'https://avimagrafika.com',
   telephone: '+6287771828227',
   address: {
     '@type': 'PostalAddress',

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Profil Perusahaan Avima Grafika',
     description: 'Bermitra dengan percetakan berkapasitas masif bersetandar industri terbaik.',
-    url: 'https://www.avimagrafika.online/about',
+    url: 'https://avimagrafika.com/about',
   }
 };
 

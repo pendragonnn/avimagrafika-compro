@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Avima Grafika - Jasa Percetakan Tercepat di Jakarta',
     description: 'Pusat layanan percetakan Offset, Koran, Majalah, dan Kemasan murah berkualitas.',
-    url: 'https://www.avimagrafika.online',
+    url: 'https://avimagrafika.com',
   }
 };
 

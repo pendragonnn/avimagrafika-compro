@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Hubungi Avima Grafika Sekarang',
     description: 'Dapatkan penawaran harga khusus untuk proyek percetakan Anda.',
-    url: 'https://www.avimagrafika.online/contact',
+    url: 'https://avimagrafika.com/contact',
   }
 };
 
